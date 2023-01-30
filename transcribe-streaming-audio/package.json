@@ -1,0 +1,16 @@
+{
+  "name": "transcribe-streaming-audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deepgram/sdk": "^1.15.0",
+    "cross-fetch": "^3.1.5",
+    "dotenv": "^16.0.3"
+  }
+}
