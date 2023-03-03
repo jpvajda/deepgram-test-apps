@@ -2,7 +2,7 @@ from deepgram import Deepgram as DG
 import asyncio, json, os
 
 # is there a way in python to get this into an environment variable?
-dg_key = "d222aa38a2749d3ba17340f08263acee4be1d4b8"
+dg_key = "YOUR_DEEPGRAM__TOKEN_HERE"
 dg = DG(dg_key)
 
 options = {
